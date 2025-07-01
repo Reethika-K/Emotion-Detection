@@ -1,4 +1,4 @@
-**Real-Time Emotion Detection with OpenCV and TensorFlow**<br>
+<h1>Real-Time Emotion Detection with OpenCV and TensorFlow</h1><br>
 This project uses CNN trained on the FER-2013 dataset to detect human emotions in real-time using webcam.<br><br>
 **Model Info**<br>
 Framework: Tensorflow/Keras<br>
